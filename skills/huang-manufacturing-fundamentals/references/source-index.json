@@ -1,0 +1,485 @@
+{
+  "title": "机械制造技术基础",
+  "edition": 2,
+  "editor": "黄健求",
+  "publisher": "机械工业出版社",
+  "publication": "2011-08（第2版第1次印刷）",
+  "isbn": "978-7-111-34225-0",
+  "pdf_pages": 324,
+  "source_sha256": "39df242d30234cea74305fb309cd8dfda90574327ba5afc4cee2a5af705ff95c",
+  "schema_version": 1,
+  "created": "2026-10-19",
+  "page_mapping": {
+    "printed_start": 1,
+    "printed_end": 311,
+    "pdf_offset": 10,
+    "note": "PDF pages are one-based; front/back matter is not mapped."
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "机械制造概论",
+      "book_start": 1,
+      "book_end": 7,
+      "pdf_start": 11,
+      "pdf_end": 17,
+      "file": "chapters/ch01-manufacturing-system.md",
+      "topics": [
+        "生产纲领",
+        "批量",
+        "生产类型",
+        "制造系统",
+        "工艺系统",
+        "净成形"
+      ],
+      "sections": [
+        {
+          "title": "概论",
+          "book_start": 1,
+          "pdf_start": 11
+        },
+        {
+          "title": "生产与制造系统",
+          "book_start": 3,
+          "pdf_start": 13
+        },
+        {
+          "title": "生产纲领与生产类型",
+          "book_start": 4,
+          "pdf_start": 14
+        },
+        {
+          "title": "机械制造方法",
+          "book_start": 5,
+          "pdf_start": 15
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "金属切削原理",
+      "book_start": 8,
+      "book_end": 48,
+      "pdf_start": 18,
+      "pdf_end": 58,
+      "file": "chapters/ch02-cutting-principles.md",
+      "topics": [
+        "切削速度",
+        "进给",
+        "背吃刀量",
+        "几何角度",
+        "积屑瘤",
+        "切削力",
+        "切削热",
+        "刀具寿命",
+        "砂轮",
+        "磨削"
+      ],
+      "sections": [
+        {
+          "title": "切削运动与用量",
+          "book_start": 8,
+          "pdf_start": 18
+        },
+        {
+          "title": "刀具几何",
+          "book_start": 10,
+          "pdf_start": 20
+        },
+        {
+          "title": "切削过程",
+          "book_start": 14,
+          "pdf_start": 24
+        },
+        {
+          "title": "切削力与功率",
+          "book_start": 21,
+          "pdf_start": 31
+        },
+        {
+          "title": "切削热",
+          "book_start": 26,
+          "pdf_start": 36
+        },
+        {
+          "title": "磨损与寿命",
+          "book_start": 29,
+          "pdf_start": 39
+        },
+        {
+          "title": "切削条件选择",
+          "book_start": 35,
+          "pdf_start": 45
+        },
+        {
+          "title": "磨削",
+          "book_start": 42,
+          "pdf_start": 52
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "金属切削刀具",
+      "book_start": 49,
+      "book_end": 78,
+      "pdf_start": 59,
+      "pdf_end": 88,
+      "file": "chapters/ch03-cutting-tools.md",
+      "topics": [
+        "刀具材料",
+        "硬质合金",
+        "PCD",
+        "PCBN",
+        "顺铣",
+        "逆铣",
+        "钻孔",
+        "扩孔",
+        "铰孔",
+        "镗孔",
+        "拉刀",
+        "齿轮刀具"
+      ],
+      "sections": [
+        {
+          "title": "刀具材料",
+          "book_start": 49,
+          "pdf_start": 59
+        },
+        {
+          "title": "车刀",
+          "book_start": 53,
+          "pdf_start": 63
+        },
+        {
+          "title": "铣刀",
+          "book_start": 57,
+          "pdf_start": 67
+        },
+        {
+          "title": "孔加工刀具",
+          "book_start": 61,
+          "pdf_start": 71
+        },
+        {
+          "title": "复杂刀具",
+          "book_start": 68,
+          "pdf_start": 78
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "金属切削机床",
+      "book_start": 79,
+      "book_end": 117,
+      "pdf_start": 89,
+      "pdf_end": 127,
+      "file": "chapters/ch04-machine-tools.md",
+      "topics": [
+        "成形运动",
+        "传动链",
+        "CA6140",
+        "车床",
+        "铣床",
+        "磨床",
+        "滚齿",
+        "插齿",
+        "数控",
+        "加工中心"
+      ],
+      "sections": [
+        {
+          "title": "机床概述",
+          "book_start": 79,
+          "pdf_start": 89
+        },
+        {
+          "title": "车床",
+          "book_start": 86,
+          "pdf_start": 96
+        },
+        {
+          "title": "铣床",
+          "book_start": 96,
+          "pdf_start": 106
+        },
+        {
+          "title": "磨床",
+          "book_start": 99,
+          "pdf_start": 109
+        },
+        {
+          "title": "齿轮机床",
+          "book_start": 103,
+          "pdf_start": 113
+        },
+        {
+          "title": "数控机床",
+          "book_start": 107,
+          "pdf_start": 117
+        },
+        {
+          "title": "其他机床",
+          "book_start": 110,
+          "pdf_start": 120
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "机床夹具设计原理",
+      "book_start": 118,
+      "book_end": 148,
+      "pdf_start": 128,
+      "pdf_end": 158,
+      "file": "chapters/ch05-fixtures.md",
+      "topics": [
+        "六点定位",
+        "自由度",
+        "不完全定位",
+        "欠定位",
+        "过定位",
+        "V形块",
+        "定位误差",
+        "夹紧",
+        "夹具"
+      ],
+      "sections": [
+        {
+          "title": "夹具概述",
+          "book_start": 118,
+          "pdf_start": 128
+        },
+        {
+          "title": "定位",
+          "book_start": 120,
+          "pdf_start": 130
+        },
+        {
+          "title": "夹紧",
+          "book_start": 133,
+          "pdf_start": 143
+        },
+        {
+          "title": "夹具设计",
+          "book_start": 143,
+          "pdf_start": 153
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "机械加工质量",
+      "book_start": 149,
+      "book_end": 193,
+      "pdf_start": 159,
+      "pdf_end": 203,
+      "file": "chapters/ch06-machining-quality.md",
+      "topics": [
+        "加工精度",
+        "误差复映",
+        "刚度",
+        "热变形",
+        "残余应力",
+        "振动",
+        "分布图",
+        "点图",
+        "Cp",
+        "过程能力",
+        "粗糙度",
+        "表面质量",
+        "烧伤"
+      ],
+      "sections": [
+        {
+          "title": "加工精度",
+          "book_start": 149,
+          "pdf_start": 159
+        },
+        {
+          "title": "影响精度的因素",
+          "book_start": 151,
+          "pdf_start": 161
+        },
+        {
+          "title": "统计分析",
+          "book_start": 171,
+          "pdf_start": 181
+        },
+        {
+          "title": "提高精度",
+          "book_start": 181,
+          "pdf_start": 191
+        },
+        {
+          "title": "表面质量",
+          "book_start": 184,
+          "pdf_start": 194
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "机械加工工艺规程设计",
+      "book_start": 194,
+      "book_end": 255,
+      "pdf_start": 204,
+      "pdf_end": 265,
+      "file": "chapters/ch07-process-planning.md",
+      "topics": [
+        "工艺规程",
+        "毛坯",
+        "工艺路线",
+        "粗基准",
+        "精基准",
+        "加工余量",
+        "工序尺寸",
+        "尺寸链",
+        "工时",
+        "工艺成本",
+        "轴",
+        "箱体",
+        "齿轮"
+      ],
+      "sections": [
+        {
+          "title": "工艺规程",
+          "book_start": 194,
+          "pdf_start": 204
+        },
+        {
+          "title": "工艺性与毛坯",
+          "book_start": 198,
+          "pdf_start": 208
+        },
+        {
+          "title": "路线",
+          "book_start": 202,
+          "pdf_start": 212
+        },
+        {
+          "title": "基准",
+          "book_start": 209,
+          "pdf_start": 219
+        },
+        {
+          "title": "工序设计",
+          "book_start": 215,
+          "pdf_start": 225
+        },
+        {
+          "title": "尺寸链",
+          "book_start": 227,
+          "pdf_start": 237
+        },
+        {
+          "title": "生产率",
+          "book_start": 237,
+          "pdf_start": 247
+        },
+        {
+          "title": "经济性",
+          "book_start": 238,
+          "pdf_start": 248
+        },
+        {
+          "title": "典型零件",
+          "book_start": 244,
+          "pdf_start": 254
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "机器装配工艺",
+      "book_start": 256,
+      "book_end": 276,
+      "pdf_start": 266,
+      "pdf_end": 286,
+      "file": "chapters/ch08-assembly.md",
+      "topics": [
+        "装配精度",
+        "装配尺寸链",
+        "极值法",
+        "概率法",
+        "完全互换",
+        "大数互换",
+        "分组",
+        "选配",
+        "修配",
+        "调整"
+      ],
+      "sections": [
+        {
+          "title": "装配概述",
+          "book_start": 256,
+          "pdf_start": 266
+        },
+        {
+          "title": "装配尺寸链",
+          "book_start": 262,
+          "pdf_start": 272
+        },
+        {
+          "title": "装配规程",
+          "book_start": 271,
+          "pdf_start": 281
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "现代制造技术",
+      "book_start": 277,
+      "book_end": 310,
+      "pdf_start": 287,
+      "pdf_end": 320,
+      "file": "chapters/ch09-modern-manufacturing.md",
+      "topics": [
+        "精密加工",
+        "微细加工",
+        "高速加工",
+        "电火花",
+        "线切割",
+        "超声",
+        "激光",
+        "CAD",
+        "CAPP",
+        "CAM",
+        "FMC",
+        "FMS",
+        "CIMS",
+        "快速原型",
+        "绿色制造"
+      ],
+      "sections": [
+        {
+          "title": "精密与微细",
+          "book_start": 277,
+          "pdf_start": 287
+        },
+        {
+          "title": "高速加工",
+          "book_start": 285,
+          "pdf_start": 295
+        },
+        {
+          "title": "特种加工",
+          "book_start": 290,
+          "pdf_start": 300
+        },
+        {
+          "title": "数字化制造",
+          "book_start": 296,
+          "pdf_start": 306
+        },
+        {
+          "title": "绿色制造",
+          "book_start": 306,
+          "pdf_start": 316
+        }
+      ]
+    }
+  ]
+}

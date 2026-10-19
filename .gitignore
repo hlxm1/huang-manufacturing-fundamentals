@@ -1,0 +1,22 @@
+# User-owned source and extraction cache
+*.pdf
+*.epub
+*.png
+*.jpg
+*.jpeg
+page-*.json
+ocr/
+local-ocr/
+work/
+full_text.txt
+ocr_source.txt
+# Runtime and credentials
+__pycache__/
+*.py[cod]
+.venv/
+python-libs/
+ocr-deps/
+.env
+.env.*
+*.pem
+*.key

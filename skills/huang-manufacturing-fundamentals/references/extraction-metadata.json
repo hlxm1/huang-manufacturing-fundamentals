@@ -1,0 +1,21 @@
+{
+  "source_sha256": "39df242d30234cea74305fb309cd8dfda90574327ba5afc4cee2a5af705ff95c",
+  "pdf_pages": 324,
+  "ocr_pages": 324,
+  "missing_pdf_pages": [],
+  "ocr_corpus_characters_including_page_markers": 299827,
+  "estimated_corpus_tokens": 176893,
+  "mean_line_confidence": 0.978187,
+  "confidence_is_accuracy": false,
+  "low_text_pdf_pages": [
+    99,
+    158
+  ],
+  "low_text_review": {
+    "99": "Rotated CA6140 transmission diagram, printed p.89; not a missing page.",
+    "158": "Fixture exercise diagram 5-50, printed p.148; not a missing page."
+  },
+  "extraction_pipeline": "Image PDF -> local RapidOCR per-page JSON -> combined UTF-8 text -> book-to-skill extract.py technical mode",
+  "book_to_skill_detected_chapters": 9,
+  "note": "Raw OCR, source images and source PDF are not distributed. Coverage does not imply transcription accuracy or verification of every formula."
+}
